@@ -1,1 +1,1 @@
-Travel app folder
+Django setup app
